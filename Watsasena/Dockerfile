@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/Kaweeshachamodk/new-JieMwol /root/WhatsAsenaDuplicated
+RUN git clone https://github.com/Kaweeshachamodk/_Alpha_ /root/WhatsAsenaDuplicated
 
 WORKDIR /root/WhatsAsenaDuplicated/
 
